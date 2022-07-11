@@ -1,0 +1,1 @@
+# vault_generic_secret_aws
